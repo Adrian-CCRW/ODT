@@ -16,3 +16,4 @@ Go to ODT-Main > Open
 Double click on "Install"
 Leave it unstill you see a pop up asking to make changes > click "yes/allow"
 Once completed search for Word > go to account > change product key > enter provided key
+
