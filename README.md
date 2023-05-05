@@ -1,4 +1,4 @@
-DOWNLOADING FOLDER
+++++++++++++++++++++++DOWNLOADING FOLDER++++++++++++++++++++++++
 
 
 Click on green "Code" button
@@ -11,8 +11,7 @@ Right click on ODT-Main > Extract All
 
 Browse > choose Desktop > Extract
 
-UNINSTALL OFFICE
-
+++++++++++++++++++++++++UNINSTALL OFFICE++++++++++++++++++++++++++
 
 Search for "Add or Remove" > Open
 
@@ -22,7 +21,8 @@ Search for "365" > Uninstall
 
 Search for "OneNote" > Uninstall
 
-INSTALLING NEW OFFICE
+
++++++++++++++++++++++++INSTALLING NEW OFFICE+++++++++++++++++++++++
 
 
 Go to ODT-Main > Open
